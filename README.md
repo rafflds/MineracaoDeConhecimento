@@ -1,6 +1,3 @@
-# MineracaoDeConhecimento
-Mineração de conhecimento que facilite a busca por insights sobre experiências de clientes do Fourth Coffee.
-
 # 🔍 Projeto de Pesquisa Inteligente com Azure AI Search
 
 [![Azure AI Search](https://img.shields.io/badge/Azure%20AI%20Search-blue?style=for-the-badge&logo=microsoftazure)](https://azure.microsoft.com/en-us/products/search/)
