@@ -80,7 +80,3 @@ Azure AI Search é um serviço de pesquisa totalmente gerenciado na nuvem da Mic
 ## 🤝 Contribuições
 
 Contribuições são sempre bem-vindas! Sinta-se à vontade para criar issues para sugerir melhorias ou pull requests para adicionar funcionalidades.
-
-## 📝 Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
